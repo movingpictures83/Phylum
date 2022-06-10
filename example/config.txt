@@ -1,0 +1,2 @@
+Prefix plugins/Phylum/example/
+Plugin Phylum inputfile parameters.phylum.txt outputfile phylum.noa
